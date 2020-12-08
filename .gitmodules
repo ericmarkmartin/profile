@@ -1,0 +1,3 @@
+[submodule "themes/hallo"]
+	path = themes/hallo
+	url = git@github.com:ericmarkmartin/zola-hallo.git

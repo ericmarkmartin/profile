@@ -1,0 +1,34 @@
+# The URL the site will be built for
+base_url = "https://ericmarkmartin.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# The theme to use
+theme = "hallo"
+
+[extra]
+# Put all your custom variables here
+author.name = "Eric Mark Martin"
+
+greeting = "Hello"
+
+iam = "I'm"
+
+links = [
+    { title = "E-Mail", url = "mailto:eric@ericmarkmartin.com", iconset = "fas", icon = "envelope" },
+    { title = "GitHub", url = "https://github.com/ericmarkmartin", icon = "github" },
+    { title = "LinkedIn", url = "https://linkedin.com/in/ericmarkmartin", icon = "linkedin" }
+]
+
+[extra.theme]
+background = "#1A1A1D"
+header = "#C3073F"
+hover = "#950740"
