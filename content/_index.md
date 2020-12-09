@@ -31,7 +31,7 @@ enabling divergence in the simply-typed lambda calculus.
 
 #### Publications
 
-1. On the Semantic Expressiveness of Recursive Types | POPL '21 [[pdf][mu-expr-pdf] | [arxiv][mu-expr-arxiv]]
+1. On the Semantic Expressiveness of Recursive Types | POPL '21 \[[pdf][mu-expr-pdf] | [arxiv][mu-expr-arxiv]\]
 
 [mu-expr-pdf]: https://squera.github.io/pdf/mu-expr.pdf
 [mu-expr-arxiv]: https://arxiv.org/abs/2010.10859 "On the Semantic
@@ -45,8 +45,8 @@ the works of J. S. Bach, Mahler, Ravel, Shostakovich, and Sibelius.
 I read creative non-fiction, philosophical texts, textbooks, and
 research literature.
 
-From time to time I enjoy soldering and programming embedded systems on
-Raspberry Pis or [SiFive] RISC boards.
+From time to time I enjoy programming embedded systems and otherwise messing
+with hardware.
 
 [SiFive]: https://sifive.com
 
