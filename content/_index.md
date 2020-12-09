@@ -42,7 +42,7 @@ Expressiveness of Recursive Types"
 I study classical flute and love listening to classical music---in particular
 the works of J. S. Bach, Mahler, Ravel, Shostakovich, and Sibelius.
 
-I am a reader of creative non-fiction, philosophical texts, textbooks, and
+I read creative non-fiction, philosophical texts, textbooks, and
 research literature.
 
 From time to time I enjoy soldering and programming embedded systems on
